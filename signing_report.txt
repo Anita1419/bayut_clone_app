@@ -1,0 +1,68 @@
+[   +3 ms] executing: [C:\src\flutter/] git -c log.showSignature=false log -n 1 --pretty=format:%H
+[  +87 ms] Exit code 0 from: git -c log.showSignature=false log -n 1 --pretty=format:%H
+[        ] 9cd3d0d9ff05768afa249e036acc66e8abe93bff
+[        ] executing: [C:\src\flutter/] git tag --points-at 9cd3d0d9ff05768afa249e036acc66e8abe93bff
+[ +127 ms] Exit code 0 from: git tag --points-at 9cd3d0d9ff05768afa249e036acc66e8abe93bff
+[   +1 ms] 3.10.2
+[   +3 ms] executing: [C:\src\flutter/] git rev-parse --abbrev-ref HEAD
+[  +88 ms] Exit code 0 from: git rev-parse --abbrev-ref HEAD
+[        ] stable
+[  +70 ms] executing: [C:\src\flutter/] git rev-parse --abbrev-ref --symbolic @{upstream}
+[ +118 ms] Exit code 0 from: git rev-parse --abbrev-ref --symbolic @{upstream}
+[        ] origin/stable
+[        ] executing: [C:\src\flutter/] git ls-remote --get-url origin
+[ +107 ms] Exit code 0 from: git ls-remote --get-url origin
+[        ] https://github.com/flutter/flutter.git
+[ +168 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[   +6 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[ +108 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[   +9 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[ +262 ms] Skipping pub get: version match.
+[ +102 ms] Found plugin path_provider at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.0.15\
+[  +10 ms] Found plugin path_provider_android at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.0.27\
+[   +8 ms] Found plugin path_provider_foundation at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.2.3\
+[   +6 ms] Found plugin path_provider_linux at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.1.11\
+[   +6 ms] Found plugin path_provider_windows at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.1.6\
+[ +166 ms] Found plugin path_provider at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.0.15\
+[  +10 ms] Found plugin path_provider_android at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.0.27\
+[   +3 ms] Found plugin path_provider_foundation at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.2.3\
+[   +3 ms] Found plugin path_provider_linux at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.1.11\
+[   +4 ms] Found plugin path_provider_windows at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.1.6\
+[ +107 ms] Found plugin path_provider at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.0.15\
+[   +1 ms] Found plugin path_provider_android at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.0.27\
+[   +2 ms] Found plugin path_provider_foundation at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.2.3\
+[   +1 ms] Found plugin path_provider_linux at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.1.11\
+[   +2 ms] Found plugin path_provider_windows at C:\Users\Dell latitude 7450\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.1.6\
+[  +36 ms] Generating F:\Flutter app\bayut_clone_app\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[ +171 ms] "flutter apk" took 1,062ms.
+[ +314 ms] ensureAnalyticsSent: 256ms
+[        ] Running 0 shutdown hooks
+[        ] Shutdown hooks complete
+[        ] exiting with code 1

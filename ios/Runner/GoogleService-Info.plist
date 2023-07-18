@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>551683394424-45gfdh4g1o6quks72ll9odcfbta0jag8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.551683394424-45gfdh4g1o6quks72ll9odcfbta0jag8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>551683394424-alt9j4vqlnv68lvr3a7kb7kbp7bljj4a.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrslxb0m0oOtnzJE8kR8ZQlp2z8g9Wz80</string>
+	<key>GCM_SENDER_ID</key>
+	<string>551683394424</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.bayutCloneApp</string>
+	<key>PROJECT_ID</key>
+	<string>bayutapp-c93eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bayutapp-c93eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:551683394424:ios:537a6a6316bf37d359568d</string>
+</dict>
+</plist>
